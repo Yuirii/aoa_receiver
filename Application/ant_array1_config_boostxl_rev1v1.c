@@ -144,7 +144,7 @@ AoA_AntennaPair pair_A1[] =
 
 AoA_AntennaConfig BOOSTXL_AoA_Config_ArrayA1 =
 {
- .numAntennas = 3,
+ .numAntennas = 2, //3 change to 2 antennas
  .pattern = &antennaPattern_A1,
  .numPairs = sizeof(pair_A1) / sizeof(pair_A1[0]),
  .pairs = pair_A1,
