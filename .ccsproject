@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="8.3.0"/>
+	<deviceVariant value="Cortex M.CC2640R2F"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="18.1.3.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="cc26xx_app.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=aoa_receiver_cc2640r2lp_app.projectspec.aoa_receiver_cc2640r2lp_app,type=rtsc,products=,xdcToolsVersion=3.50.08.24_core,target=ti.targets.arm.elf.M3,platform=ti.platforms.simplelink:CC2640R2F,buildProfile=release,isHybrid=true,configuroOptions=--compileOptions ${COMPILER_FLAGS} --xdcpath ${EXAMPLE_BLE_ROOT}/../../../../../source/ti/blestack;${SRC_BLE_DIR}/../../../source;${SRC_BLE_DIR}/../../../kernel/tirtos/packages;${SRC_BLE_DIR}"/>
+	<origin value="E:\ti\simplelink_cc2640r2_sdk_2_30_00_28\examples\rtos\CC2640R2_LAUNCHXL\blestack\aoa_receiver\tirtos\ccs\aoa_receiver_cc2640r2lp_app.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
